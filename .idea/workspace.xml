@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90b0e647-f36b-4a45-ab8e-c63c4d591f05" name="Default Changelist" comment="1.优化代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/$D)CXE@SSOUR~O[%0~72$EG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/anli1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/asyn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/aotu/RabbitMqTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/aotu/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/aotu/aotu_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/aotu/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/aotu/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/common/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/common/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/project/test1111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/project/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/project/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts.py" beforeDir="false" afterPath="$PROJECT_DIR$/exts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/permission/console_permission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/mysql_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/mysql_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/wz/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/wz/wu_wz.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/wz/wz.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Python-Code\alter\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJ8XaJottRIWAVHn4Go4iMfW8o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python-Code\alter\utils\aotu_utils" />
+      <recent name="C:\Python-Code\alter\utils\ui_utils" />
+      <recent name="D:\Python-Code\alter\controller\aotu" />
+      <recent name="D:\Python-Code\alter\controller\common" />
+      <recent name="D:\Python-Code\alter\permission" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python-Code\alter\utils\ui_utils" />
+      <recent name="D:\Python-Code\alter\controller\settle" />
+      <recent name="D:\Python-Code\alter\client" />
+      <recent name="D:\Python-Code\alter\controller\common" />
+      <recent name="D:\Python-Code\alter\controller\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.alter">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asyn" type="PythonConfigurationType" factoryName="Python">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/asyn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test111 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller/aotu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/aotu/test111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/test111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/project/test1111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_xml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/ui_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/ui_utils/test_xml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui_xml_parse (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/ui_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/ui_utils/ui_xml_parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alter" type="Python.FlaskServer">
+      <module name="alter" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\it_ce\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.alter" />
+      <item itemvalue="Python.asyn" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.ui_xml_parse (1)" />
+      <item itemvalue="Python.test_xml" />
+      <item itemvalue="Python.test1111" />
+      <item itemvalue="Python.test111" />
+      <item itemvalue="Python.test111 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test111 (1)" />
+        <item itemvalue="Python.test111" />
+        <item itemvalue="Python.test1111" />
+        <item itemvalue="Python.test_xml" />
+        <item itemvalue="Python.ui_xml_parse (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b0e647-f36b-4a45-ab8e-c63c4d591f05" name="Default Changelist" comment="" />
+      <created>1573395414420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573395414420</updated>
+      <workItem from="1573395416424" duration="1130000" />
+      <workItem from="1573400632039" duration="1504000" />
+      <workItem from="1573473478180" duration="2590000" />
+      <workItem from="1573573731728" duration="13000" />
+      <workItem from="1573577998412" duration="73000" />
+      <workItem from="1573785681973" duration="622000" />
+      <workItem from="1574162293327" duration="40000" />
+      <workItem from="1574229964754" duration="6876000" />
+      <workItem from="1574323468222" duration="623000" />
+      <workItem from="1575275034377" duration="2809000" />
+      <workItem from="1575426885820" duration="610000" />
+      <workItem from="1575439562949" duration="27916000" />
+      <workItem from="1575890149510" duration="7319000" />
+      <workItem from="1576048072371" duration="25732000" />
+      <workItem from="1576204190495" duration="3186000" />
+      <workItem from="1576220181138" duration="18393000" />
+      <workItem from="1576462787158" duration="4906000" />
+      <workItem from="1576558192034" duration="10193000" />
+      <workItem from="1576642191103" duration="1877000" />
+      <workItem from="1576727331898" duration="69083000" />
+      <workItem from="1577080453805" duration="4544000" />
+      <workItem from="1577116355872" duration="77371000" />
+      <workItem from="1577523160565" duration="8307000" />
+      <workItem from="1577630858881" duration="33711000" />
+      <workItem from="1577949167982" duration="11919000" />
+      <workItem from="1578122263417" duration="240000" />
+      <workItem from="1578122890556" duration="6336000" />
+      <workItem from="1578378042209" duration="1781000" />
+      <workItem from="1578389452427" duration="4852000" />
+      <workItem from="1578466483988" duration="7621000" />
+      <workItem from="1583985514510" duration="4905000" />
+      <workItem from="1584067842638" duration="20659000" />
+      <workItem from="1584329306127" duration="21319000" />
+      <workItem from="1584592809023" duration="4334000" />
+      <workItem from="1584601503015" duration="1108000" />
+      <workItem from="1584940604933" duration="2075000" />
+      <workItem from="1585143781457" duration="3995000" />
+      <workItem from="1585203378833" duration="23594000" />
+      <workItem from="1585658851743" duration="42871000" />
+      <workItem from="1585885710665" duration="77338000" />
+      <workItem from="1586245922301" duration="7021000" />
+      <workItem from="1586346960948" duration="985000" />
+      <workItem from="1586351400132" duration="2851000" />
+      <workItem from="1586435812701" duration="12000" />
+      <workItem from="1586436036108" duration="40000" />
+      <workItem from="1586442383653" duration="235000" />
+      <workItem from="1586442633085" duration="2212000" />
+      <workItem from="1586510757925" duration="41452000" />
+      <workItem from="1587021300785" duration="50569000" />
+      <workItem from="1587379262138" duration="16172000" />
+      <workItem from="1587455125276" duration="9720000" />
+      <workItem from="1587542970860" duration="3394000" />
+      <workItem from="1587620153328" duration="12922000" />
+      <workItem from="1587723787437" duration="25086000" />
+      <workItem from="1587977782692" duration="1985000" />
+      <workItem from="1587989132958" duration="18682000" />
+      <workItem from="1588129280577" duration="10843000" />
+      <workItem from="1588214626833" duration="53000" />
+      <workItem from="1588215042361" duration="17589000" />
+      <workItem from="1588237211380" duration="180000" />
+      <workItem from="1588237532488" duration="56445000" />
+      <workItem from="1588833561704" duration="15176000" />
+      <workItem from="1588907050097" duration="20739000" />
+      <workItem from="1589011045967" duration="3013000" />
+      <workItem from="1589018080164" duration="10019000" />
+      <workItem from="1589106479116" duration="176000" />
+      <workItem from="1589106741739" duration="1584000" />
+      <workItem from="1589123722450" duration="1801000" />
+      <workItem from="1589126434684" duration="1543000" />
+      <workItem from="1589127989573" duration="37000" />
+      <workItem from="1589166947303" duration="369000" />
+      <workItem from="1589167647031" duration="45000" />
+      <workItem from="1589167747455" duration="1797000" />
+      <workItem from="1589169599349" duration="669000" />
+      <workItem from="1589176746782" duration="171000" />
+      <workItem from="1589181033734" duration="12421000" />
+      <workItem from="1589273853658" duration="34000" />
+      <workItem from="1589273902216" duration="186000" />
+      <workItem from="1589274101215" duration="802000" />
+      <workItem from="1589785685370" duration="20973000" />
+      <workItem from="1589973270432" duration="1583000" />
+      <workItem from="1590030945561" duration="31267000" />
+      <workItem from="1590485327446" duration="11036000" />
+      <workItem from="1590560190040" duration="5491000" />
+      <workItem from="1590655580245" duration="19184000" />
+      <workItem from="1591155504085" duration="32733000" />
+      <workItem from="1591274719444" duration="16836000" />
+      <workItem from="1591702442409" duration="4795000" />
+      <workItem from="1591879287926" duration="1044000" />
+      <workItem from="1591881113923" duration="597000" />
+      <workItem from="1591882933865" duration="597000" />
+      <workItem from="1591947054412" duration="1404000" />
+      <workItem from="1592221915810" duration="599000" />
+      <workItem from="1592386892045" duration="6000" />
+      <workItem from="1592396251402" duration="5289000" />
+      <workItem from="1592803518991" duration="1112000" />
+      <workItem from="1592819807855" duration="78000" />
+      <workItem from="1592826742697" duration="12751000" />
+      <workItem from="1592977005833" duration="7565000" />
+      <workItem from="1592988374818" duration="811000" />
+      <workItem from="1593312076158" duration="1469000" />
+      <workItem from="1593326620515" duration="3795000" />
+      <workItem from="1593422542969" duration="9399000" />
+      <workItem from="1593670966851" duration="1513000" />
+      <workItem from="1593676406396" duration="1394000" />
+      <workItem from="1593678223331" duration="1790000" />
+      <workItem from="1593680043889" duration="1148000" />
+      <workItem from="1593759405016" duration="1398000" />
+      <workItem from="1594176933869" duration="1785000" />
+      <workItem from="1594178748813" duration="1794000" />
+      <workItem from="1594185896970" duration="4430000" />
+      <workItem from="1594209642790" duration="2966000" />
+      <workItem from="1594790986413" duration="2295000" />
+      <workItem from="1594880112417" duration="12832000" />
+      <workItem from="1595334257155" duration="18995000" />
+      <workItem from="1595820332625" duration="2923000" />
+      <workItem from="1595914989303" duration="7357000" />
+      <workItem from="1596001315277" duration="8126000" />
+      <workItem from="1596077578733" duration="12030000" />
+      <workItem from="1596430833471" duration="1258000" />
+      <workItem from="1596432117675" duration="10785000" />
+      <workItem from="1596596132041" duration="3261000" />
+      <workItem from="1596620869896" duration="3000" />
+      <workItem from="1597048908941" duration="293000" />
+      <workItem from="1597050108657" duration="2178000" />
+      <workItem from="1597128619436" duration="700000" />
+      <workItem from="1597221339799" duration="803000" />
+      <workItem from="1597300549315" duration="9000" />
+      <workItem from="1597300601033" duration="1500000" />
+      <workItem from="1597302392940" duration="10412000" />
+      <workItem from="1597324983912" duration="1021000" />
+      <workItem from="1597330163950" duration="15253000" />
+      <workItem from="1597631802092" duration="10741000" />
+      <workItem from="1597899243281" duration="7210000" />
+      <workItem from="1598445934590" duration="1226000" />
+      <workItem from="1598497378866" duration="9897000" />
+      <workItem from="1599048027063" duration="3424000" />
+      <workItem from="1599190323731" duration="1774000" />
+      <workItem from="1599449632340" duration="2074000" />
+      <workItem from="1599463880455" duration="1208000" />
+      <workItem from="1599468130568" duration="6866000" />
+      <workItem from="1599557379532" duration="2645000" />
+      <workItem from="1599567901736" duration="28741000" />
+      <workItem from="1600139948044" duration="6898000" />
+      <workItem from="1600236787721" duration="1644000" />
+      <workItem from="1600238598708" duration="896000" />
+      <workItem from="1600244760696" duration="9414000" />
+      <workItem from="1600423527921" duration="3884000" />
+      <workItem from="1600741465858" duration="11343000" />
+      <workItem from="1600829271548" duration="4177000" />
+      <workItem from="1601001293988" duration="3554000" />
+      <workItem from="1601174700121" duration="10728000" />
+      <workItem from="1601263862645" duration="5994000" />
+      <workItem from="1601370870483" duration="337000" />
+      <workItem from="1601429810369" duration="7444000" />
+      <workItem from="1601528092165" duration="1534000" />
+      <workItem from="1602211932116" duration="955000" />
+      <workItem from="1602219569288" duration="788000" />
+      <workItem from="1602232911271" duration="614000" />
+      <workItem from="1602316721084" duration="604000" />
+      <workItem from="1602472136475" duration="608000" />
+      <workItem from="1602474203246" duration="554000" />
+      <workItem from="1602478267550" duration="5099000" />
+      <workItem from="1603077001301" duration="609000" />
+      <workItem from="1603867122456" duration="317000" />
+      <workItem from="1603867681025" duration="2448000" />
+      <workItem from="1604027218960" duration="607000" />
+      <workItem from="1604545931236" duration="608000" />
+      <workItem from="1604546552795" duration="1000" />
+      <workItem from="1604546688181" duration="6204000" />
+      <workItem from="1604632496048" duration="3322000" />
+      <workItem from="1604902699202" duration="5082000" />
+      <workItem from="1605006208994" duration="11958000" />
+      <workItem from="1605178991657" duration="5581000" />
+      <workItem from="1605234281311" duration="6048000" />
+      <workItem from="1605321522820" duration="73000" />
+      <workItem from="1605405665068" duration="11963000" />
+      <workItem from="1605520448753" duration="713000" />
+      <workItem from="1605577944621" duration="650000" />
+      <workItem from="1605622046726" duration="1242000" />
+      <workItem from="1605660935179" duration="765000" />
+      <workItem from="1605667402123" duration="1213000" />
+      <workItem from="1605676494991" duration="1011000" />
+      <workItem from="1605682633721" duration="805000" />
+      <workItem from="1605701456375" duration="608000" />
+      <workItem from="1605843037700" duration="1402000" />
+      <workItem from="1605865395774" duration="562000" />
+      <workItem from="1606120693093" duration="1376000" />
+      <workItem from="1606218918588" duration="188000" />
+      <workItem from="1606282835922" duration="648000" />
+      <workItem from="1606358649424" duration="7756000" />
+      <workItem from="1606622346971" duration="1235000" />
+      <workItem from="1606721572217" duration="6498000" />
+      <workItem from="1606896823962" duration="2000" />
+      <workItem from="1606967083135" duration="945000" />
+      <workItem from="1607066294855" duration="5887000" />
+      <workItem from="1607408109334" duration="105000" />
+      <workItem from="1607481636846" duration="2891000" />
+      <workItem from="1607571023629" duration="155000" />
+      <workItem from="1607672395062" duration="2993000" />
+      <workItem from="1607915945482" duration="1010000" />
+      <workItem from="1607921474443" duration="215000" />
+      <workItem from="1607926848365" duration="1424000" />
+      <workItem from="1607932225063" duration="605000" />
+      <workItem from="1608000036867" duration="417000" />
+      <workItem from="1608022908233" duration="17000" />
+      <workItem from="1608023887624" duration="1731000" />
+      <workItem from="1608086997272" duration="425000" />
+      <workItem from="1608088955260" duration="7000" />
+      <workItem from="1608106918484" duration="1285000" />
+      <workItem from="1608204576707" duration="7000" />
+      <workItem from="1608259326180" duration="36000" />
+      <workItem from="1608518867873" duration="14000" />
+      <workItem from="1608693879254" duration="4760000" />
+      <workItem from="1608795129483" duration="806000" />
+      <workItem from="1608868309607" duration="1138000" />
+      <workItem from="1609307306463" duration="618000" />
+      <workItem from="1609690390542" duration="10000" />
+      <workItem from="1609925344793" duration="886000" />
+      <workItem from="1610090447200" duration="602000" />
+      <workItem from="1610261088937" duration="606000" />
+      <workItem from="1610344668282" duration="1831000" />
+      <workItem from="1610346714992" duration="5561000" />
+      <workItem from="1610614933350" duration="1741000" />
+      <workItem from="1610936058669" duration="14091000" />
+      <workItem from="1611021311063" duration="10781000" />
+      <workItem from="1611111964947" duration="6659000" />
+      <workItem from="1611194828237" duration="3291000" />
+      <workItem from="1611233000398" duration="8000" />
+      <workItem from="1611384769127" duration="26000" />
+      <workItem from="1611737206274" duration="1696000" />
+      <workItem from="1611799164809" duration="103000" />
+      <workItem from="1611888358599" duration="6435000" />
+      <workItem from="1612080106620" duration="749000" />
+      <workItem from="1612145750636" duration="4798000" />
+      <workItem from="1612414470560" duration="3315000" />
+      <workItem from="1613627917645" duration="44000" />
+      <workItem from="1613701219365" duration="1817000" />
+      <workItem from="1614049523701" duration="2109000" />
+      <workItem from="1614138371535" duration="3331000" />
+      <workItem from="1614665184844" duration="869000" />
+      <workItem from="1614666463097" duration="2133000" />
+      <workItem from="1614754720597" duration="2336000" />
+      <workItem from="1615192594125" duration="771000" />
+      <workItem from="1615431867053" duration="1838000" />
+      <workItem from="1615444901577" duration="3137000" />
+      <workItem from="1615518026279" duration="489000" />
+      <workItem from="1615797900921" duration="964000" />
+      <workItem from="1615800145349" duration="617000" />
+      <workItem from="1616034307970" duration="2103000" />
+      <workItem from="1616047005817" duration="66000" />
+      <workItem from="1616047102307" duration="527000" />
+      <workItem from="1616382852684" duration="1582000" />
+      <workItem from="1616397589036" duration="714000" />
+      <workItem from="1616400206792" duration="876000" />
+      <workItem from="1616467589237" duration="2535000" />
+      <workItem from="1616569744366" duration="594000" />
+      <workItem from="1617350454269" duration="532000" />
+      <workItem from="1617720983215" duration="11000" />
+      <workItem from="1617816831477" duration="641000" />
+      <workItem from="1617947595079" duration="803000" />
+      <workItem from="1618229529762" duration="831000" />
+      <workItem from="1618314742243" duration="723000" />
+      <workItem from="1618381799412" duration="519000" />
+      <workItem from="1618466936897" duration="946000" />
+      <workItem from="1618816055936" duration="518000" />
+      <workItem from="1618816849280" duration="768000" />
+      <workItem from="1618974125896" duration="696000" />
+      <workItem from="1619667139492" duration="969000" />
+      <workItem from="1619751212722" duration="755000" />
+      <workItem from="1619753339437" duration="30000" />
+      <workItem from="1619753383257" duration="1783000" />
+      <workItem from="1619765394887" duration="93000" />
+      <workItem from="1619766630441" duration="48000" />
+      <workItem from="1620282159033" duration="63000" />
+      <workItem from="1620291184385" duration="1000" />
+      <workItem from="1620798003798" duration="43000" />
+      <workItem from="1620972596141" duration="145000" />
+      <workItem from="1620972755397" duration="40000" />
+      <workItem from="1621050689547" duration="36000" />
+      <workItem from="1621252354010" duration="52000" />
+      <workItem from="1621252445774" duration="18000" />
+      <workItem from="1621252474328" duration="523000" />
+      <workItem from="1621255687613" duration="2603000" />
+      <workItem from="1621490202677" duration="2110000" />
+      <workItem from="1621926068460" duration="1140000" />
+      <workItem from="1622116125465" duration="151000" />
+      <workItem from="1622182073666" duration="633000" />
+      <workItem from="1622433165306" duration="741000" />
+      <workItem from="1622518429420" duration="12327000" />
+      <workItem from="1626939056843" duration="627000" />
+    </task>
+    <task id="LOCAL-00161" summary="1.优化代码">
+      <created>1600238645748</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1600238645749</updated>
+    </task>
+    <task id="LOCAL-00162" summary="1.优化管理后台导入权限代码">
+      <created>1600313925833</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1600313925833</updated>
+    </task>
+    <task id="LOCAL-00163" summary="1.优化代码">
+      <created>1600327171576</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1600327171576</updated>
+    </task>
+    <task id="LOCAL-00164" summary="1.优化代码">
+      <created>1600422862307</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1600422862331</updated>
+    </task>
+    <task id="LOCAL-00165" summary="1.优化代码&#10;2.增加自动结算接口">
+      <created>1600752684098</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1600752684099</updated>
+    </task>
+    <task id="LOCAL-00166" summary="1.优化代码">
+      <created>1600778394055</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1600778394082</updated>
+    </task>
+    <task id="LOCAL-00167" summary="1.优化代码">
+      <created>1600830389126</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1600830389127</updated>
+    </task>
+    <task id="LOCAL-00168" summary="1.优化代码">
+      <created>1601175828317</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1601175828318</updated>
+    </task>
+    <task id="LOCAL-00169" summary="1.优化代码">
+      <created>1601185870272</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1601185870272</updated>
+    </task>
+    <task id="LOCAL-00170" summary="1.优化代码">
+      <created>1601190861348</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1601190861348</updated>
+    </task>
+    <task id="LOCAL-00171" summary="1.优化代码">
+      <created>1601192655382</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192655382</updated>
+    </task>
+    <task id="LOCAL-00172" summary="1.优化代码">
+      <created>1601192808665</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192808665</updated>
+    </task>
+    <task id="LOCAL-00173" summary="1.优化代码">
+      <created>1601196099852</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1601196099852</updated>
+    </task>
+    <task id="LOCAL-00174" summary="1.优化代码">
+      <created>1601275688524</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1601275688525</updated>
+    </task>
+    <task id="LOCAL-00175" summary="1.优化代码">
+      <created>1601430567481</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1601430567482</updated>
+    </task>
+    <task id="LOCAL-00176" summary="1.优化代码&#10;2.增加二清监控">
+      <created>1601437568057</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1601437568057</updated>
+    </task>
+    <task id="LOCAL-00177" summary="1.优化代码-增加监听退款">
+      <created>1601446727022</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1601446727022</updated>
+    </task>
+    <task id="LOCAL-00178" summary="1.优化代码-增加违章结算失败订单">
+      <created>1602474452344</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1602474452344</updated>
+    </task>
+    <task id="LOCAL-00179" summary="1.优化代码-增加违章结算失败订单">
+      <created>1602474559685</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1602474559685</updated>
+    </task>
+    <task id="LOCAL-00180" summary="1.优化代码-增加违章结算失败订单">
+      <created>1602478685256</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1602478685256</updated>
+    </task>
+    <task id="LOCAL-00181" summary="1.优化代码-增加违章结算失败订单">
+      <created>1602483555881</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1602483555881</updated>
+    </task>
+    <task id="LOCAL-00182" summary="1.优化代码">
+      <created>1602484359234</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1602484359234</updated>
+    </task>
+    <task id="LOCAL-00183" summary="1.优化代码">
+      <created>1602556115101</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1602556115101</updated>
+    </task>
+    <task id="LOCAL-00184" summary="1.优化代码">
+      <created>1603868163388</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1603868163389</updated>
+    </task>
+    <task id="LOCAL-00185" summary="1.优化代码">
+      <created>1603869946720</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1603869946720</updated>
+    </task>
+    <task id="LOCAL-00186" summary="1.优化代码">
+      <created>1604547339708</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1604547339709</updated>
+    </task>
+    <task id="LOCAL-00187" summary="1.优化代码">
+      <created>1604547546628</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1604547546628</updated>
+    </task>
+    <task id="LOCAL-00188" summary="1.优化代码">
+      <created>1604548032895</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1604548032895</updated>
+    </task>
+    <task id="LOCAL-00189" summary="1.优化代码">
+      <created>1604653604532</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1604653604532</updated>
+    </task>
+    <task id="LOCAL-00190" summary="1.优化代码">
+      <created>1605011499037</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1605011499039</updated>
+    </task>
+    <task id="LOCAL-00191" summary="1.优化代码">
+      <created>1605012629502</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1605012629502</updated>
+    </task>
+    <task id="LOCAL-00192" summary="1.优化代码">
+      <created>1605012656210</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1605012656210</updated>
+    </task>
+    <task id="LOCAL-00193" summary="1.优化代码">
+      <created>1605234675828</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234675828</updated>
+    </task>
+    <task id="LOCAL-00194" summary="1.优化代码">
+      <created>1605622689378</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1605622689378</updated>
+    </task>
+    <task id="LOCAL-00195" summary="1.优化代码">
+      <created>1606282879332</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1606282879332</updated>
+    </task>
+    <task id="LOCAL-00196" summary="1.优化代码">
+      <created>1606384347911</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1606384347911</updated>
+    </task>
+    <task id="LOCAL-00197" summary="1.优化代码">
+      <created>1606718294773</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1606718294774</updated>
+    </task>
+    <task id="LOCAL-00198" summary="1.优化代码">
+      <created>1606725508732</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725508733</updated>
+    </task>
+    <task id="LOCAL-00199" summary="1.优化代码">
+      <created>1606728629314</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1606728629314</updated>
+    </task>
+    <task id="LOCAL-00200" summary="1.优化代码">
+      <created>1606728754413</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1606728754413</updated>
+    </task>
+    <task id="LOCAL-00201" summary="1.优化代码">
+      <created>1606975138264</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1606975138265</updated>
+    </task>
+    <task id="LOCAL-00202" summary="1.优化代码">
+      <created>1607075068750</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1607075068750</updated>
+    </task>
+    <task id="LOCAL-00203" summary="1.优化代码">
+      <created>1612080259467</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1612080259468</updated>
+    </task>
+    <task id="LOCAL-00204" summary="1.优化代码">
+      <created>1615444977996</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1615444977996</updated>
+    </task>
+    <task id="LOCAL-00205" summary="1.优化代码">
+      <created>1615445024780</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1615445024780</updated>
+    </task>
+    <task id="LOCAL-00206" summary="1.优化代码">
+      <created>1615518082072</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1615518082072</updated>
+    </task>
+    <task id="LOCAL-00207" summary="1.优化代码">
+      <created>1617174589508</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1617174589508</updated>
+    </task>
+    <task id="LOCAL-00208" summary="1.优化代码&#10;2.增加fat环境">
+      <created>1622615765598</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1622615765598</updated>
+    </task>
+    <task id="LOCAL-00209" summary="1.优化代码">
+      <created>1622615882427</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1622615882428</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.优化测试报告代码&#10;2.增加报告筛选用例" />
+    <MESSAGE value="1.日志" />
+    <MESSAGE value="1.优化代码&#10;2.增加interface签名" />
+    <MESSAGE value="1.优化代码&#10;2.增加二清接口，帮助测试" />
+    <MESSAGE value="1.优化二清接口，帮助测试" />
+    <MESSAGE value="1.优化代码&#10;2.项目集成日志， &#10;3.优化获取用例接口" />
+    <MESSAGE value="1.优化代码日志，方便查问题" />
+    <MESSAGE value="1.优化二清代码" />
+    <MESSAGE value="1.优化二清代码&#10;2.增加二清上传文件 进行分析" />
+    <MESSAGE value="1.优化二清代码&#10;2.增加es刷新接口" />
+    <MESSAGE value="1.增加put请求" />
+    <MESSAGE value="1.增加接口请求前时间等待" />
+    <MESSAGE value="1.优化代码&#10;2.增加变量也可以获取动态参数" />
+    <MESSAGE value="1.优化代码&#10;2.增加gitlab api &#10;3.增加刷新车辆es 接口" />
+    <MESSAGE value="1.优化代码,增加刷新会员接口" />
+    <MESSAGE value="1.优化代码&#10;2.增加内置函数-前端写python" />
+    <MESSAGE value="1.优化代码&#10;2.增加内置函数python文件跟着项目走&#10;3.根据python文件 执行并且获取参数" />
+    <MESSAGE value="1.优化代码&#10;2.把预期结果 等 动态参数加上python文件获取函数" />
+    <MESSAGE value="1.优化管理后台导入权限代码" />
+    <MESSAGE value="1.优化代码&#10;2.增加自动结算接口" />
+    <MESSAGE value="1.优化代码&#10;2.增加二清监控" />
+    <MESSAGE value="1.优化代码-增加监听退款" />
+    <MESSAGE value="1.优化代码-增加违章结算失败订单" />
+    <MESSAGE value="1.优化代码&#10;2.增加fat环境" />
+    <MESSAGE value="1.优化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.优化代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/wz/__init__.py</url>
+          <line>1439</line>
+          <option name="timeStamp" value="775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/gitlab/v4/objects.py</url>
+          <line>2233</line>
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/gitlab/v4/objects.py</url>
+          <line>2232</line>
+          <option name="timeStamp" value="793" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/tests/series/test_quantile.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="794" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/gitlab/gitlab_utils.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="796" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/gitlab/gitlab_utils.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="798" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/common/build_in_manage.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="806" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/project/views.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="827" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/permission/console_permission.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/project/views.py</url>
+          <line>282</line>
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/project/views.py</url>
+          <line>295</line>
+          <option name="timeStamp" value="839" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/project/views.py</url>
+          <line>273</line>
+          <option name="timeStamp" value="840" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>546</line>
+          <option name="timeStamp" value="846" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>562</line>
+          <option name="timeStamp" value="851" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>568</line>
+          <option name="timeStamp" value="852" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>614</line>
+          <option name="timeStamp" value="855" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>626</line>
+          <option name="timeStamp" value="856" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>657</line>
+          <option name="timeStamp" value="857" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>463</line>
+          <option name="timeStamp" value="867" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>430</line>
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/request_utils.py</url>
+          <line>282</line>
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/interface/views.py</url>
+          <line>368</line>
+          <option name="timeStamp" value="900" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/interface/views.py</url>
+          <line>395</line>
+          <option name="timeStamp" value="902" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/interface/views.py</url>
+          <line>373</line>
+          <option name="timeStamp" value="904" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/project/views.py</url>
+          <line>513</line>
+          <option name="timeStamp" value="912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/ui_utils/ui_xml_parse.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ui_controller/suite/views.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="919" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ui_controller/suite/views.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="920" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/ui_utils/ui_xml_parse.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="921" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/ui_utils/test_xml.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="922" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/ui_utils/test_xml.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="924" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>365</line>
+          <option name="timeStamp" value="928" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>372</line>
+          <option name="timeStamp" value="929" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/aotu/views.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="930" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alter$anli.coverage" NAME="anli Coverage Results" MODIFIED="1577533132019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/alter$create_locustfile__1_.coverage" NAME="create_locustfile (1) Coverage Results" MODIFIED="1576232168881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/project" />
+    <SUITE FILE_PATH="coverage/alter$asyn.coverage" NAME="asyn Coverage Results" MODIFIED="1577678207869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/alter$create_locustfile.coverage" NAME="create_locustfile Coverage Results" MODIFIED="1576229321299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/common" />
+    <SUITE FILE_PATH="coverage/alter$test_bytes.coverage" NAME="test_bytes Coverage Results" MODIFIED="1578126695686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python/Lib/test" />
+    <SUITE FILE_PATH="coverage/alter$decoder.coverage" NAME="decoder Coverage Results" MODIFIED="1587008847651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python/Lib/json" />
+    <SUITE FILE_PATH="coverage/alter$test_quantile.coverage" NAME="test_quantile Coverage Results" MODIFIED="1598519362763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/tests/series" />
+    <SUITE FILE_PATH="coverage/alter$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1594177914131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/interface" />
+    <SUITE FILE_PATH="coverage/alter$locustfile.coverage" NAME="locustfile Coverage Results" MODIFIED="1576227673576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/common" />
+    <SUITE FILE_PATH="coverage/alter$xml_parse.coverage" NAME="xml_parse Coverage Results" MODIFIED="1610973994252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/ui_utils" />
+    <SUITE FILE_PATH="coverage/alter$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1586954677443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/interface" />
+    <SUITE FILE_PATH="coverage/alter$apk_base.coverage" NAME="apk_base Coverage Results" MODIFIED="1588589135281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$excel_utils.coverage" NAME="excel_utils Coverage Results" MODIFIED="1589268001098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$mysql_utils.coverage" NAME="mysql_utils Coverage Results" MODIFIED="1577159546085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$anli1.coverage" NAME="anli1 Coverage Results" MODIFIED="1577969008759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/alter$ui_xml_parse__1_.coverage" NAME="ui_xml_parse (1) Coverage Results" MODIFIED="1611909414962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/ui_utils" />
+    <SUITE FILE_PATH="coverage/alter$email_utils.coverage" NAME="email_utils Coverage Results" MODIFIED="1590558993508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1575463447077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alter$views.coverage" NAME="views Coverage Results" MODIFIED="1605183012811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controller/aotu" />
+    <SUITE FILE_PATH="coverage/alter$run.coverage" NAME="run Coverage Results" MODIFIED="1578391079189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/alter$alter.coverage" NAME="alter Coverage Results" MODIFIED="1622617186327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alter$ui_img_utils.coverage" NAME="ui_img_utils Coverage Results" MODIFIED="1610959287801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/ui_utils" />
+    <SUITE FILE_PATH="coverage/alter$request_utils.coverage" NAME="request_utils Coverage Results" MODIFIED="1591596864984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$gitlab_utils.coverage" NAME="gitlab-utils Coverage Results" MODIFIED="1598519381150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/gitlab" />
+    <SUITE FILE_PATH="coverage/alter$test111.coverage" NAME="test111 Coverage Results" MODIFIED="1616035186701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$curl_parse.coverage" NAME="curl_parse Coverage Results" MODIFIED="1587009701880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/alter$test_xml.coverage" NAME="test_xml Coverage Results" MODIFIED="1611910332496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/ui_utils" />
+  </component>
+</project>

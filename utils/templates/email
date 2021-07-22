@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <title>《凹凸接口自动化》</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #efefef" bgcolor="#efefef">
+<table class="e-mail" cellpadding="0" cellspacing="0" border="0" align="center" width="100%"
+       style="font-family:'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun;">
+    <tr>
+    <tr>
+        <td align="center" style="padding:25px 0; background-color: #efefef;" bgcolor="#efefef">
+            <table cellpadding="0" cellspacing="0" border="0"
+                   style="margin: 0; color: #444444; font-family:'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px; border: none;background-color: #efefef; "
+                   width="750">
+                <tr>
+                    <td>
+                        <table cellpadding="0" cellspacing="0"
+                               style="border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #efefef;">
+                            <tr>
+                                <td width="750" height="200px" style="vertical-align: top;">
+                                    <div style="width: 750px;height:400px;">
+                                        <!-- 这里必须有div包裹，不然td实际高度大于200px，即便设置高度也不生效 -->
+                                        <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567771682496&di=eaabc5a75bc8d4730da7a44d2cfe2d0a&imgtype=0&src=http%3A%2F%2F02.imgmini.eastday.com%2Fmobile%2F20180613%2F20180613175234_00c1b213400b4dddf90684aa22358f58_4.png"
+                                             style="width:750px;height:400px;">
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0"
+                               style="border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #ffffff;">
+                            <tr>
+                                <td width="40"></td>
+                                <td width="245">
+                                    <hr style="margin: 0;display: block; height: 1px; line-height: 0; width: 100%; border: none; background-color: #999999;">
+                                </td>
+                                <td width="180" style="padding: 30px 0;vertical-align: top;">
+                                    <p style="text-align: center;color: #0090da;">INTERFACE TEST</p>
+                                </td>
+                                <td width="245">
+                                    <hr style="margin: 0;display: block; height: 1px; line-height: 0; width: 100%; border: none; background-color: #999999;">
+                                </td>
+                                <td width="40"></td>
+                            </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0"
+                               style="border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #ffffff;">
+                            <tr>
+                                <td width="40"></td>
+                                <td width="670" style="padding: 10px 0;vertical-align: top;">
+                                    <p style="margin-top: 0;font-size: 14px;color:#333;">Hello All：</p>
+                                </td>
+                                <td width="40"></td>
+                            </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0"
+                               style="border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #ffffff;">
+                            <tr>
+                                <td width="40"></td>
+                                <td width="670" style="padding: 10px 0;vertical-align: top;">
+                                    <p style="margin-bottom:10px;text-indent:2em;font-size: 14px;color: #333;">
+                                        本次接口测试用例已经测试完毕；当次运行情况：总数为： <span style="color:green;font-weight:bold">{}</span>， 通过数为： <span style="color:green;font-weight:bold">{}</span>， 失败数为： <span style="color:red;font-weight:bold">{}</span>;
+                                        如需查看详细情况请点击<u style="color:blue">在线报告</u>查看；邮件为每日定点发送, 如有打扰抱歉；如发现存在失败的用例，请相关用例编写人员及时检查！
+                                        如有问题，及时反馈！谢谢！</p>
+                                </td>
+                                <td width="40"></td>
+                            </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0"
+                               style="border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #ffffff;">
+                            <tr>
+                                <td width="40"></td>
+                                <td width="670" style="padding: 20px 0;">
+                                    <hr style="margin: 0;display: block; height: 1px; line-height: 0; width: 100%; border: none; background-color: #efefef;">
+                                </td>
+                                <td width="40"></td>
+                            </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0"
+                               style="width:100%; border-collapse:collapse;color: #444444; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;background-color: #ffffff;">
+                            <tr>
+                                <td style="padding: 30px 0 50px 0; width:100%;display:flex;justify-content:center;">
+                                    <table cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td align="center" valign="middle" width="152" height="42"
+                                                style="vertical-align: top;-moz-border-radius:25px;-webkit-border-radius:25px;border-radius:25px;background-color: #0090da;">
+                                                <div style="width:152px;height:42px;border-radius: 0 0 25px 25px; -moz-border-radius: 0 0 25px 25px; -webkit-border-radius: 0 0 25px 25px;">
+                                                    <table cellpadding="11" cellspacing="0">
+                                                        <tr>
+                                                            <td style="padding:11px 0; margin:auto; display:block;">
+                                                                <a href="{}"
+                                                                   target="_blank"
+                                                                   style="text-decoration:none;border: none;"><span
+                                                                        style="color: #ffffff; font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif,SimSun; font-size: 14px;height: 20px;line-height:20px;display:inline-block;">在线报告</span></a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
